@@ -27,6 +27,7 @@ Install :
 
 git clone https://github.com/faridghulami/Web_X.git
 cd Web_X
+
 python3 Web_X.py
 
 
