@@ -17,6 +17,19 @@ A script to find admin login pages and EAR vulnerabilites.
 - [x] Support for custom patns
 
 ### Usages
+
+ Work in :
+Kali linux 
+Termux
+Windows
+
+Install :
+
+git clone https://github.com/faridghulami/Web_X.git
+cd Web_X
+python3 Web_X.py
+
+
 - Check all paths with php extension
 ```
 python3 Web_X.py -u example.com --type php
